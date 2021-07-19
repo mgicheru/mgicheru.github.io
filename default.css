@@ -46,8 +46,8 @@ span {
 }
 
 img {
-  width: 35%;
-  height:45%;
+  width: auto;
+  height:auto;
  
   border-radius: 200%;
   margin-right: auto;
