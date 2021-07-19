@@ -32,7 +32,12 @@ li a {
 .body-content {
   background-image: linear-gradient(to top, #1E3932, grey);
   margin-top: 50px;
+  display:flex;
 }
+.description{flex:45%;
+height:auto;}
+.profile{flex:55%;
+height:auto}
 
 span {
   color: red;
